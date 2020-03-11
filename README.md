@@ -1,4 +1,4 @@
-# Hashcash by Go
+# Hashcash
 
 ## License
 
